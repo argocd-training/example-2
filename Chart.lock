@@ -1,0 +1,6 @@
+dependencies:
+- name: hello-world
+  repository: https://helm.sikalabs.io
+  version: 0.3.0
+digest: sha256:fb91c8dc0db33b6d6669870949b4952551b49d216acd574405930e755c657dd7
+generated: "2022-05-05T00:46:03.733139+02:00"
